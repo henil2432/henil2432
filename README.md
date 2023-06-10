@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href=#><img src="contributions.svg"></a>
+<!-- <a href=#><img src="contributions.svg"></a> -->
